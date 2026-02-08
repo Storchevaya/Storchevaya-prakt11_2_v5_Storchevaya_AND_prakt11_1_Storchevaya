@@ -1,0 +1,11 @@
+C:\Users\1\Desktop\prack_11_2_v5_\bin\Debug\prack_11_2_v5_.exe.config
+C:\Users\1\Desktop\prack_11_2_v5_\bin\Debug\prack_11_2_v5_.exe
+C:\Users\1\Desktop\prack_11_2_v5_\bin\Debug\prack_11_2_v5_.pdb
+C:\Users\1\Desktop\prack_11_2_v5_\obj\Debug\prack_11_2_v5_.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\prack_11_2_v5_\obj\Debug\prack_11_2_v5_.Form1.resources
+C:\Users\1\Desktop\prack_11_2_v5_\obj\Debug\prack_11_2_v5_.Properties.Resources.resources
+C:\Users\1\Desktop\prack_11_2_v5_\obj\Debug\prack_11_2_v5_.csproj.GenerateResource.cache
+C:\Users\1\Desktop\prack_11_2_v5_\obj\Debug\prack_11_2_v5_.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\prack_11_2_v5_\obj\Debug\prack_11_2_v5_.exe
+C:\Users\1\Desktop\prack_11_2_v5_\obj\Debug\prack_11_2_v5_.pdb
+C:\Users\1\Desktop\prack_11_2_v5_\obj\Debug\prack_11_2_v5_.exe.config

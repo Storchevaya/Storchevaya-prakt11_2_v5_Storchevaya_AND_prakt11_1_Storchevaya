@@ -1,0 +1,11 @@
+C:\Users\1\Desktop\prakt11_1_Storchevaya\bin\Debug\prakt11_1_Storchevaya.exe.config
+C:\Users\1\Desktop\prakt11_1_Storchevaya\bin\Debug\prakt11_1_Storchevaya.exe
+C:\Users\1\Desktop\prakt11_1_Storchevaya\bin\Debug\prakt11_1_Storchevaya.pdb
+C:\Users\1\Desktop\prakt11_1_Storchevaya\obj\Debug\prakt11_1_Storchevaya.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\prakt11_1_Storchevaya\obj\Debug\prakt11_1_Storchevaya.Student_work.resources
+C:\Users\1\Desktop\prakt11_1_Storchevaya\obj\Debug\prakt11_1_Storchevaya.Properties.Resources.resources
+C:\Users\1\Desktop\prakt11_1_Storchevaya\obj\Debug\prakt11_1_Storchevaya.csproj.GenerateResource.cache
+C:\Users\1\Desktop\prakt11_1_Storchevaya\obj\Debug\prakt11_1_Storchevaya.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\prakt11_1_Storchevaya\obj\Debug\prakt11_1_Storchevaya.exe
+C:\Users\1\Desktop\prakt11_1_Storchevaya\obj\Debug\prakt11_1_Storchevaya.pdb
+C:\Users\1\Desktop\prakt11_1_Storchevaya\obj\Debug\prakt11_1_Storchevaya.exe.config
